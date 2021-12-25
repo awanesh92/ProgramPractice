@@ -20,4 +20,4 @@ class Solution:
         return res if not any(cp.values()) else []
 
 s=Solution()
-print(s.findOrder(4,[[1,0],[2,0],[3,1],[3,2]]))
+assert [0,1,2,3] == s.findOrder(4,[[1,0],[2,0],[3,1],[3,2]])
