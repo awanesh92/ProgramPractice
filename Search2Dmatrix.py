@@ -22,6 +22,7 @@ class Solution:
                 # print(matrix[row],target)
                 if self.binsearch(matrix[row], target) != -1:
                     result = True
+                break
             row += 1
         return result
 
