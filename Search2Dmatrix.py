@@ -18,7 +18,6 @@ class Solution:
             #         return True
             #     row+=1
             # return False
-            # print(matrix[row][s],matrix[row][e])
             if (matrix[row][s] <= target and target <= matrix[row][e]):
                 # print(matrix[row],target)
                 if self.binsearch(matrix[row], target) != -1:
