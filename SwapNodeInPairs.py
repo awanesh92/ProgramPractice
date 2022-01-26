@@ -16,8 +16,6 @@ class Solution:
             p.next=r
             prev=p
             p=r
-
         return node.next
 
 s=Solution()
-
