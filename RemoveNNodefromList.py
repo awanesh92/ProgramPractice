@@ -19,4 +19,4 @@ class Solution:
             right=right.next
         left.next= not left.next
 
-        return dummy.next
+        return dummy.next 
