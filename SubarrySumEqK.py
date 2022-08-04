@@ -18,3 +18,4 @@ class Solution:
 s=Solution()
 assert 2==s.subarraySum([1,1,1],2)
 assert 55==s.subarraySum([0,0,0,0,0,0,0,0,0,0],0)
+assert 2==s.subarraySum([1,2,3],3)
