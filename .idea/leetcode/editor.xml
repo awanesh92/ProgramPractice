@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/cn/[953]验证外星语词典.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/cn/doc/content/[953]验证外星语词典.md" />
+              <option name="frontendQuestionId" value="leetcode.cn953" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/cn/[953]验证外星语词典.java" />
+              <option name="titleSlug" value="verifying-an-alien-dictionary" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/en/[2996]Smallest Missing Integer Greater Than Sequential Prefix Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/en/doc/content/[2996]Smallest Missing Integer Greater Than Sequential Prefix Sum.md" />
+              <option name="frontendQuestionId" value="leetcode.com2996" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/en/[2996]Smallest Missing Integer Greater Than Sequential Prefix Sum.java" />
+              <option name="titleSlug" value="smallest-missing-integer-greater-than-sequential-prefix-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/en/[3042]Count Prefix and Suffix Pairs I.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/en/doc/content/[3042]Count Prefix and Suffix Pairs I.md" />
+              <option name="frontendQuestionId" value="leetcode.com3042" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="/var/folders/6c/q2fw01792kdcqm10g3xmy7m80000gn/T/leetcode/editor/en/[3042]Count Prefix and Suffix Pairs I.py" />
+              <option name="titleSlug" value="count-prefix-and-suffix-pairs-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
