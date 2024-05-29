@@ -21,5 +21,21 @@ class Solution:
         print(chars[:len(op)])
         return len(op)
 
+        # #Approach 2
+        # i, ans = 0, 0
+        # while i < len(chars):
+        #     temp = chars[i]
+        #     cnt = 0
+        #     while i < len(chars) and chars[i] == temp:
+        #         cnt += 1
+        #         i += 1
+        #     chars[ans] = temp
+        #     ans += 1
+        #     if cnt > 1:
+        #         for c in str(cnt):
+        #             chars[ans] = c
+        #             ans += 1
+        # return ans
+
 s=Solution()
 assert 6 == s.compress(["a","a","b","b","c","c","c"])
